@@ -1,7 +1,7 @@
 class Devrev < Formula
   desc "devrev-cli"
   homepage "https://devrev.ai"
-  version "0.3.2"
+  version "0.3.3"
 
   on_macos do
       if Hardware::CPU.arm?
